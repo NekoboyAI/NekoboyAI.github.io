@@ -9,9 +9,9 @@ Email
 
 I can be contacted via email using the following addresses:
 
-* `mfp19@` for IT matters.
-* `mfp19@` for Weed&Beer matters.
-* `mfp19@` for other matters.
+* `NekoboyAI@` for IT matters.
+* `NekoboyAI@` for Weed&Beer matters.
+* `NekoboyAI@` for other matters.
 
 Note: after being investigated 3 times, and stalked, and scared, I had to give up
 my personal mail server and create my fake identity (see 'Public conversations').
