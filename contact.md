@@ -10,7 +10,6 @@ Email
 I can be contacted via email using the following addresses:
 
 * `NekoboyAI@` for IT matters.
-* `NekoboyAI@` for Weed&Beer matters.
 * `NekoboyAI@` for other matters.
 
 Note: after being investigated 3 times, and stalked, and scared, I had to give up
