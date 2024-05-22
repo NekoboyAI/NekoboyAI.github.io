@@ -79,11 +79,9 @@ Public conversations
 ====================
 
 To engage with me in public conversations via 
-my puppet identity (Michele Favara Pedarsi):
+my puppet identity (NekoboyAI):
 
-* [LinkedIn](https://www.linkedin.com/in/Michelefavarapedarsi)
-* [Gmail](mailto:michele.favarapedarsi@gmail.com)
-* [Skype](skype:michele.favarapedarsi)
+* [Matrix](https://matrix.to/#/@nekoboyai:tchncs.de)
 
 Notes on communicating with my puppet
 -------------------------------------
