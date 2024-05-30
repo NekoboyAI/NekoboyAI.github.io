@@ -4,8 +4,6 @@ title: Filen Drive gets 50GB of storage quickly
 author: NekoboyAI
 ---
 
-# Filen Drive gets 50GB of storage quickly
-
 Quick introduction: Filen Drive comes from Germany (Germany is a good place to upload R18 content with a bit of openness)
 The platform is a cloud platform that provides "private" storage of data, using end-to-end encryption, zero-knowledge encryption.Each user can get 50GB of space directly (unlike some companies Onedrive, Google, Mega, Dropbox, Icolud without any encryption or privacy, and will delete users' porn files directly)
 The content begins:
