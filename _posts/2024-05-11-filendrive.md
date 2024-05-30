@@ -10,7 +10,7 @@ The content begins:
 
 # You need three preparation tools
 
-1. Google Chrome No Trace mode
+1. Google Chrome incognito mode
 3. [Fake Email ](https://temp-mail.io/zh)
 4. [Invite link](https://filen.io/r/1f71fb4468c7c85b24910ccbb10e5ef7) (purpose for extra 10 gb) 
 Sign up with My connection to get an extra 10gb (base users give away 10gb, so that's 20GB)
