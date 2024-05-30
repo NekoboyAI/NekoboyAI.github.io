@@ -15,8 +15,8 @@ Filen Drive 快速获得 50GB储存空间
 内容开始：
 你需要三个准备工具
 1. 谷歌浏览器无痕模式
-2. 临时假的Email https://temp-mail.io/zh
-3. 邀请连结（目的为了额外10GB）https://filen.io/r/1f71fb4468c7c85b24910ccbb10e5ef7
+2. [临时假的Email ](https://temp-mail.io/zh)
+3. [邀请连结](https://filen.io/r/1f71fb4468c7c85b24910ccbb10e5ef7)（目的为了额外10GB）
 
 
 使用我的连接注册即可获得额外10gb（基础用户赠送10gb，所以这样是20GB）
@@ -24,16 +24,14 @@ Filen Drive 快速获得 50GB储存空间
 # ——注册说明：
 
 注册完成接收验证信件之後，输入：
-https://drive.filen.io/#/account/invite
-
+[https://drive.filen.io/#/account/invite](https://drive.filen.io/#/account/invite)
 找到你的邀请连结，该网站上会有类似（以下请妥善保存，下面是我的，请复制你自己的）
-https://filen.io/r/1f71fb4468c7c85b24910ccbb10e5ef7
-
+[https://filen.io/r/1f71fb4468c7c85b24910ccbb10e5ef7](https://filen.io/r/1f71fb4468c7c85b24910ccbb10e5ef7)
 # ——— 谷歌浏览器无痕模式
 使用假的email接受信件注册
- https://temp-mail.io/zh
+ [https://temp-mail.io/zh](https://temp-mail.io/zh)
 
 一样开启你刚刚的邀请连结：
-https://filen.io/r/1f71fb4468c7c85b24910ccbb10e5ef7
+[https://filen.io/r/1f71fb4468c7c85b24910ccbb10e5ef7](https://filen.io/r/1f71fb4468c7c85b24910ccbb10e5ef7)
 
 接收信件验证完成，直接把无痕模式关闭，在开启一次，反覆这个动作长达三次你就有额外30GB的空间
